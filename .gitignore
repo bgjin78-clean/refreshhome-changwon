@@ -9,3 +9,7 @@ Desktop.ini
 
 # Local helpers
 scripts/_areas_list_snippet.html
+
+__pycache__/
+*.pyc
+
