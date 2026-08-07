@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2026-08-01-pallyong",
+    "date": "2026-08-01",
+    "area": "창원 팔룡동",
+    "service": "매트리스 클리닝",
+    "title": "창원 팔룡동 매트리스 클리닝",
+    "text": "아이 있는 집이라 걱정이었는데, 청소 후 냄새가 확 달라졌어요.",
+    "name": "김○○",
+    "before": "/images/ba-mattress-1.png",
+    "after": ""
+  },
+  {
+    "id": "2026-07-25-jindong",
+    "date": "2026-07-25",
+    "area": "마산 진동면",
+    "service": "매트리스 클리닝",
+    "title": "마산 진동면 매트리스 클리닝",
+    "text": "10년 된 매트리스가 새것처럼 깨끗해졌습니다.",
+    "name": "박○○",
+    "before": "/images/ba-mattress-2.png",
+    "after": ""
+  },
+  {
+    "id": "2026-07-18-gyeonghwa",
+    "date": "2026-07-18",
+    "area": "진해 경화동",
+    "service": "매트리스+소파",
+    "title": "진해 경화동 매트리스·소파 클리닝",
+    "text": "소파·매트리스 함께 맡겼는데 친절하고 꼼꼼했어요.",
+    "name": "이○○",
+    "before": "/images/ba-sofa-1.png",
+    "after": "/images/ba-sofa-2.png"
+  }
+]
